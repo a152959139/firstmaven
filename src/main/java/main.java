@@ -10,4 +10,6 @@ public class main {
             System.out.println("this is  a blank String");
     }
 }
+//在github上写的修改
+//本地写的文字
 //解决冲突后提交
